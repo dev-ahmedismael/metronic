@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import General from "./pages_sub_menus/General";
 import Account from "./pages_sub_menus/Account";
