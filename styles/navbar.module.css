@@ -1,0 +1,50 @@
+@keyframes moveToTop {
+  from {
+    top: 90px;
+  }
+  to {
+    top: 65px;
+  }
+}
+.navlink {
+  position: relative;
+}
+.navlinkMenu {
+  background-color: white;
+  min-width: max-content;
+  position: absolute;
+  top: 65px;
+  left: 0;
+  display: none;
+  z-index: 10;
+}
+.navlink:hover .navlinkMenu {
+  display: block;
+  animation-name: moveToTop;
+  animation-duration: 0.3s;
+}
+.dashboardItem:hover {
+  background-color: rgb(230, 230, 230);
+  cursor: pointer;
+}
+.dashboardListItem {
+  color: #5e6170;
+}
+.dashboardListItem:hover {
+  cursor: pointer;
+  color: #08a1f8;
+}
+.button {
+  background-color: white;
+  color: #a8a9ad;
+  border: none;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: #f9f9f9;
+  color: #08a1f8;
+}
+.button .active {
+  background-color: #f9f9f9;
+  color: #08a1f8;
+}

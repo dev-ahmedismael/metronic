@@ -1,0 +1,16 @@
+.failed {
+    background-color: #FFF5F8;
+    color: #F1416C
+}
+.onHold {
+    background-color: #FFF8DD;
+    color: #FFC70E
+}
+.inProgress {
+    background-color: #F1FAFF;
+    color: #2E9FF7
+}
+.completed {
+    background-color: #E8FFF3;
+    color: #55CD8C
+}

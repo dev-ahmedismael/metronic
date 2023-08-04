@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "category": "",
+    "content": [
+      {
+        "id": 1,
+        "title": "Dashboards",
+        "list": [
+          "Default",
+          "eCommerce",
+          "Projects",
+          "Online Courses",
+          "Marketing"
+        ],
+        "more": [
+          "Bidding",
+          "POS System",
+          "Call Center",
+          "Logistics",
+          "Website Analytics",
+          "Finance Performance",
+          "Store Analytics",
+          "Social",
+          "Delivery",
+          "Crypto",
+          "School",
+          "Podcast",
+          "Landing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Pages",
+    "content": [
+      {
+        "id": 1,
+        "title": "User Profile",
+        "list": [
+          "Overview",
+          "Projects",
+          "Campaigns",
+          "Documents",
+          "Followers",
+          "Activity"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Account",
+        "list": [
+          "Overview",
+          "Settings",
+          "Security",
+          "Activity",
+          "Billing",
+          "Statements",
+          "Referrals",
+          "API Keys",
+          "Logs"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Authentication",
+        "list": [
+          {
+            "title": "Corporate Layout",
+            "sublist": [
+              "Sign-in",
+              "Sign-up",
+              "Two-Factor",
+              "Reset Password",
+              "New Password"
+            ]
+          },
+          {
+            "title": "Overlay Layout",
+            "sublist": [
+              "Sign-in",
+              "Sign-up",
+              "Two-Factor",
+              "Reset Password",
+              "New Password"
+            ]
+          },
+          {
+            "title": "Creative Layout",
+            "sublist": [
+              "Sign-in",
+              "Sign-up",
+              "Two-Factor",
+              "Reset Password",
+              "New Password"
+            ]
+          },
+          {
+            "title": "Fancy Layout",
+            "sublist": [
+              "Sign-in",
+              "Sign-up",
+              "Two-Factor",
+              "Reset Password",
+              "New Password"
+            ]
+          },
+          {
+            "title": "Email Templates",
+            "sublist": [
+              "Welcome Message",
+              "Reset Password",
+              "Subscription Confirmed",
+              "Credit Card Declined",
+              "Promo 1",
+              "Promo 2",
+              "Promo 3"
+            ]
+          },
+          "Multi-steps Sign-up",
+          "Welcome Message",
+          "Verify Email",
+          "Coming Soon",
+          "Password Confirmation",
+          "Account Deactivation",
+          "Error 404",
+          "Error 500"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Corporate",
+        "list": ["About", "Our Team", "Contact Us", "Licenses", "Sitemap"]
+      },
+      {
+        "id": 5,
+        "title": "Social",
+        "list": ["Feeds", "Activty", "Followers", "Settings"]
+      },
+      {
+        "id": 6,
+        "title": "Blog",
+        "list": ["Blog Home", "Blog Post"]
+      },
+      {
+        "id": 7,
+        "title": "FAQ",
+        "list": ["FAQ Classic", "FAQ Extended"]
+      },
+      {
+        "id": 8,
+        "title": "Pricing",
+        "list": ["Column Pricing", "Table Pricing"]
+      },
+      {
+        "id": 9,
+        "title": "Careers",
+        "list": ["Careers List", "Careers Apply"]
+      },
+      {
+        "id": 10,
+        "title": "Utilities",
+        "list": ["Modals", "Search", "Wizards"]
+      },
+      {
+        "id": 11,
+        "title": "Widgets",
+        "list": ["Lists", "Statistics", "Charts", "Mixed", "Tables", "Feeds"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Apps",
+    "content": [
+      {
+        "id": 1,
+        "title": "Projects",
+        "list": [
+          "My Projects",
+          "View Project",
+          "Targets",
+          "Budget",
+          "Users",
+          "Files",
+          "Activity",
+          "Settings"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "eCommerce",
+        "list": [
+          {
+            "title": "Catalog",
+            "sublist": [
+              "Products",
+              "Categories",
+              "Add Product",
+              "Edit Product",
+              "Add Category",
+              "Edit Category"
+            ]
+          },
+          {
+            "title": "Sales",
+            "sublist": [
+              "Orders Listing",
+              "Order Details",
+              "Add Order",
+              "Edit Order"
+            ]
+          },
+          {
+            "title": "Customers",
+            "sublist": ["Customer Listing", "Customer Details"]
+          },
+          {
+            "title": "Reports",
+            "sublist": [
+              "Products Viewed",
+              "Sales",
+              "Returns",
+              "Customer Orders",
+              "Shipping"
+            ]
+          },
+          "Settings"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Contacts",
+        "list": [
+          "Getting Started",
+          "Add Contact",
+          "Edit Contact",
+          "View Contact"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Support Center",
+        "list": [
+          "Overview",
+          { "title": "Tickets", "sublist": ["Tickets List", "View Ticket"] },
+          {
+            "title": "Tutorials",
+            "sublist": ["Tutorials List", "Tutorial Post"]
+          },
+          "FAQ",
+          "Licenses",
+          "Contact Us"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "User Management",
+        "list": [
+          { "title": "Users", "sublist": ["Users List", "View User"] },
+          { "title": "Roles", "sublist": ["Roles List", "View Role"] },
+          "Permissions"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Customers",
+        "list": ["Getting Started", "Customer Listing", "Customer Details"]
+      },
+      {
+        "id": 7,
+        "title": "Subscription",
+        "list": [
+          "Getting Started",
+          "Subscription List",
+          "Add Subscription",
+          "View Subscription"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Invoice Manager",
+        "list": [
+          {
+            "title": "View Invoices",
+            "sublist": ["Invoice 1", "Invoice 2", "Invoice 3"]
+          },
+          "Create Invoice"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "File Manager",
+        "list": ["Folders", "Files", "Blank Directory", "Settings"]
+      },
+      {
+        "id": 10,
+        "title": "Inbox",
+        "list": ["Messages", "Compose", "View & Reply"]
+      },
+      {
+        "id": 11,
+        "title": "Chat",
+        "list": ["Private Chat", "Group Chat", "Drawer Chat"]
+      },
+      {
+        "id": 12,
+        "title": "Calendar",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Layouts",
+    "content": [
+      {
+        "id": 1,
+        "title": "Layout Options",
+        "list": ["Light Sidebar", "Dark Sidebar", "Light Header", "Dark Header"]
+      },
+      {
+        "id": 2,
+        "title": "Toolbars",
+        "list": ["Classic", "SaaS", "Accounting", "Extended", "Reports"]
+      },
+      {
+        "id": 3,
+        "title": "Layout Builder",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Help",
+    "content": [
+      {
+        "id": 1,
+        "title": "Components",
+        "list": []
+      },
+      {
+        "id": 2,
+        "title": "Documentation",
+        "list": []
+      },
+      {
+        "id": 3,
+        "title": "Changelog v8.1.8",
+        "list": []
+      }
+    ]
+  }
+]
