@@ -11,7 +11,7 @@ const Navbar = () => {
   const path = usePathname();
   return (
     <nav>
-      {path ? (
+      {path === "/" ? (
         <Box
           display={"flex"}
           flexDirection={"column"}
